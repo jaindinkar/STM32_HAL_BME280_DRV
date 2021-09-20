@@ -3,7 +3,7 @@
 BME280 I2C Driver for STM32 Devices based on STM32-HAL. A rewrite of original Bosch driver written in C programming Language.
 
 
-## Desrciption:
+## Description:
 
 Easy to understand crude driver for BME280(Pressure, Temperature and Humidity Sensor) over the STM32 HAL, based on original Bosch Library. Code is simplified a lot for easy understanding, a lot of complex error checking is also removed. It's basically a rewrite of original library. This library utilize full integration with STM32 HAL(Hardware Abstraction Layer) and optimized bosch library.
 
