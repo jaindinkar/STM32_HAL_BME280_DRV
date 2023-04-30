@@ -18,4 +18,11 @@ Functions are choosen as to include only 32 bit operations as STM32 devices only
 
 ## References:
 
-[Bosch BME280 Driver API](https://github.com/BoschSensortec/BME280_driver)
+- [Bosch BME280 Driver API](https://github.com/BoschSensortec/BME280_driver)
+- [Cactus.io BME280 Driver API](./resources/drivers/cactus.io/)
+- STM32 Course by DeepBlue
+- Discovering STM32 microcontroller By Geoffery Brown (Ref. Book)
+- Datasheets BME280, BMP280
+- Reference Manual STM32F103xx
+- STM32F103C8T6 (BluePill) Schematics
+- STM32F103C8T6 (BluePill) Pinouts
